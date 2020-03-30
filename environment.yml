@@ -2,12 +2,6 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - matplotlib
   - xarray
-  - pandas
-  - seaborn
-  - bokeh
-  - dask
   - cdsapi
   - magics
