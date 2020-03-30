@@ -3,5 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - xarray
+  - cfgrib
   - cdsapi
   - magics
