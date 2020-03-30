@@ -2,7 +2,6 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - magics
   - xarray
   - cfgrib
-  - cdsapi
-  - magics
